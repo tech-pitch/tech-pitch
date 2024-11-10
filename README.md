@@ -3,9 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tech-pitch&label=Profile%20views&color=0e75b6&style=flat" alt="tech-pitch" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tech-pitch" alt="tech-pitch" /></a> </p>
-
-- 💬 Ask me about **javascript, typescript, java, react, angular**
 <!--
+- 💬 Ask me about **javascript, typescript, java, react, angular**
+
 - 📫 How to reach me **jslink29@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
